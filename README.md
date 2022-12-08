@@ -1,7 +1,9 @@
 ### 완독! : ~ 2022.10.06.
 
 
-<img src="https://user-images.githubusercontent.com/50352139/206353595-9cf6c4b3-7b86-400b-9f1d-0a1c3e19b284.png" width="40%" height="40%" />
+<a href ="http://www.yes24.com/Product/Goods/105138479">
+   <img src="https://user-images.githubusercontent.com/50352139/206353595-9cf6c4b3-7b86-400b-9f1d-0a1c3e19b284.png" width="40%" height="40%" />
+</a>
 
 ---
 * 커밋 컨벤션
